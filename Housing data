@@ -1,2 +1,2 @@
-The dataset contains 13 columns of which the target variable is set as MEDVAL. There could be many ways to solve the model, but first lets start with Linear Regression.
+The dataset contains 13 columns of which the target variable is set as MEDVAL. There could be many ways to solve the model, but first we start with Linear Regression.
 We test the prediction power of the model using the housing data found on kaggle.com. The target variable in our dataset is MEDVAL which is of type double.
